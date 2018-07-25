@@ -1,0 +1,23 @@
+{
+  "name": "react-native-custome-button",
+  "version": "1.0.0",
+  "_location": "/react-native-custome-button",
+  "description": "A react native component working as a button",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sumitarya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitaryavrat/react-native-custome-button.git"
+  },
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.0"
+  }
+}
